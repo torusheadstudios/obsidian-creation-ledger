@@ -1,0 +1,20 @@
+/* Creation Ledger – minimal, Obsidian-native */
+
+.creationledger-modal {
+  min-width: 520px;
+}
+
+/* Optional: subtle spacing for the bottom button row */
+.creationledger-buttons {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+/* Small helper text under dropdowns */
+.creationledger-helper {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-top: 4px;
+}
