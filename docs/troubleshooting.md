@@ -37,13 +37,6 @@ If notes aren't being created:
 2. Ensure you have write permissions in your vault
 3. Check the console (Help → Toggle Developer Tools) for error messages
 
-## When to Use It
-
-Refer to this page when you encounter issues with:
-- Dashboards not displaying
-- Plugin not loading
-- Files not creating
-- Settings not saving
 
 ## Related
 
